@@ -1,0 +1,6 @@
+openai
+speechrecognition
+gtts
+flask
+python-dotenv
+pyaudio
